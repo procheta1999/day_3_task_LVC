@@ -1,5 +1,5 @@
 # Introduction
-Hello everyone, I'm Debargha Bhattacharjee from NSEC in the first year of CSE Branch
+# Hello everyone, I'm Debargha Bhattacharjee from NSEC in the first year of CSE Branch
 
 ## Details 
 Name:-_Debargha Bhattacharjee_
