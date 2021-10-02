@@ -33,4 +33,4 @@
 - BENGALI!
 - 
 - 
-![computer-icons-instagram-logo-sticker-png-favpng-LZmXr3KPyVbr8LkxNML458QV3](https://user-images.githubusercontent.com/91630253/135709106-76c4baae-f829-4b78-be3c-b9b673ddee83.jpg)
+
